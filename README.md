@@ -1,6 +1,6 @@
-# ChatGPT 中文版：国内免费 ChatGPT 镜像网站推荐（支持 GPT-4、4o、o1和o3，无需翻墙）【2025年5月更新】
+# ChatGPT 中文版：国内免费 ChatGPT 镜像网站推荐（支持 GPT-4、4o、o1和o3，无需翻墙）【2025年6月更新】
 
-> 更新时间：2025/05/10
+> 更新时间：2025/06/04
 
 全面讲解 **ChatGPT 中文版使用指南**，支持 GPT-4，**无需翻墙**即可轻松使用 ChatGPT！   
 本文提供 **ChatGPT 中文版**的使用说明、**ChatGPT 镜像网站推荐**以及常见问题解答，帮助您在生活、学习和工作中高效使用 ChatGPT，并可无限制使用 GPT-4、4o 和 o1、o3 模型。
@@ -18,7 +18,7 @@
 
 ## 1. 什么是 ChatGPT 中文版？
 
-**ChatGPT 中文版**是基于 OpenAI 的先进 ChatGPT 模型的本地化版本，专为国内用户提供流畅、智能的对话服务。
+[**ChatGPT 中文版**](https://chat.lanjing.pro) 是基于 OpenAI 的先进 ChatGPT 模型的本地化版本，专为国内用户提供流畅、智能的对话服务。
 
 - **无需翻墙**：通过国内镜像网站即可快速稳定地访问。
 - **中文优化**：专为中文语言进行深度优化，提供更准确和自然的对话体验。
@@ -30,12 +30,12 @@
 
 以下是一些推荐的 **ChatGPT 中文版镜像网站**，无需翻墙即可顺畅使用 ChatGPT：
 
-- **[chat.yixiaai.com](https://chat.yixiaai.com/)**：**ChatGPT 中文版**，运行稳定近两年，支持 GPT-4、4o 和 o1 模型，并具备 AI 绘画功能。
-- **[chat.lify.vip](https://www.yixiaai.com/)**：**ChatGPT 镜像网站**，集成最新 ChatGPT 模型，包括 GPT-4o、4o mini 和 o1，支持 AI 写作、编程助手、知识库及思维导图等功能。
+- **[chat.yixiaai.com](https://chat.lanjing.pro/)**：**ChatGPT 中文版**，运行稳定近两年，支持 GPT-4、4o 和 o1 模型，并具备 AI 绘画功能。
+- **[chat.lify.vip](https://xsimplechat.com/)**：**ChatGPT 镜像网站**，集成最新 ChatGPT 模型，包括 GPT-4o、4o mini 和 o1，支持 AI 写作、编程助手、知识库及思维导图等功能。
 - **[yixiaai.cn](https://yixiaai.cn/)**：提供多种 AI 工具，帮助用户掌握前沿技术知识。
-- **[guide1.lanjing.ai](https://guide1.lanjing.ai/)**：支持 AI 绘画功能，适合创意人士。
+- **[chat.lanjingai.org](https://chat.lanjingai.org/)**：支持 AI 绘画功能，适合创意人士。
 - **[ai.lansejingyu.com](https://ai.lansejingyu.com/)**：简便易用，支持 GPT-4 和 4o，适合新手快速上手。
-- **[lanjing.ai](https://lanjing.ai/)**：免费使用体验，支持最新版 GPT-4 和 4o 模型。
+- **[lanjing.ai](https://lanjing.pro/)**：免费使用体验，支持最新版 GPT-4 和 4o 模型。
 
 这些镜像网站为用户提供了多样化的选择，您可以根据个人需求选用适合的平台。
 
@@ -69,7 +69,7 @@
 
 ## 5. 快速使用 ChatGPT 中文版的方法
 
-1. **访问镜像站点**：选择一个推荐的镜像站点（如 **一下AI ([chat.yixiaai.com](https://chat.yixiaai.com/))**）。
+1. **访问镜像站点**：选择一个推荐的镜像站点（如 **一下AI ([chat.yixiaai.com](https://chat.lanjing.pro/))**）。
 2. **注册或直接使用**：
    - **扫码登录**：微信扫码即可快速访问，无需注册。
    - **免注册体验**：直接输入问题，立即获得智能解答。
